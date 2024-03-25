@@ -6,8 +6,6 @@ doe: "a deer, a female deer"
  calling-birds:
    - huey
    - dewey
-   - louie
-   - fred
  xmas-fifth-day:
    calling-birds: four
    french-hens: 3
